@@ -1,8 +1,8 @@
-
 import React from 'react';
 import HeroSection from '@/components/HeroSection';
 import FeaturedProducts from '@/components/FeaturedProducts';
 import CategoriesSection from '@/components/CategoriesSection';
+import { Button } from '@/components/ui/button';
 import { ProductType } from '@/context/CartContext';
 
 const Index: React.FC = () => {
